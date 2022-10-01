@@ -1,7 +1,7 @@
 # test_weekly_report
 ## Week 1
 ### 1)Learning hours:
-about 20hours
+about 15 hours
 ### 2)Learing progress:
 review the konwledge of C/C++ and debugger,especially the use of pointers ,written code in Linux by vim or vscode. learned how to convert source code into an executable file,and the knowlege of gcc,git,and ssh.Learned a little bit of network programming
 ### 3）Your implementation of the tasks you have done this week：
