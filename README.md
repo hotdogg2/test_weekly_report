@@ -19,7 +19,7 @@ Telnet the virtual machine without password by SSH.
 
 ![6](https://github.com/hotdogg2/test_weekly_report/blob/main/6.png)
 
-## 4)Unsolved problems(if any)：
+### 4)Unsolved problems(if any)：
 Lack of deep understanding of Linux and  network programming.
-## 5)Plan for the next week:
+### 5)Plan for the next week:
 Network programming.
