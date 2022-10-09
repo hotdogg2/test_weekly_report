@@ -32,6 +32,7 @@ about 15-20 hours.
 Learned the konwledge points of network,such as socket,TCP/UDP,Network hierarchical model and Network protocol.trid to write basic code about Network programming.learned the conception of thread and process.
 ### 3）Your implementation of the tasks you have done this week:
 Completed a simple C/S model (the client sends a string to serer,the server just pass the string back to the client ).code in server_echo.c,client_echo.c,some Error handler in wrap.c.
+
 Besides,write code to serve multiple users by multithreading(the function is the same as above).code in server_thread.c.
 ### 4)Unsolved problems：
 I/O multiplexing,some detailed points of network programming.
