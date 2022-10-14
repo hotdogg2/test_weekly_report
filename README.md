@@ -42,7 +42,13 @@ Learn more about network programming，maybe 5G.
 ## 1)Learning hours:
 about 10 hours
 ### 2)Learing progress:
-Continue to learn and wrote code for multiple customers by IO,learn something of select and poll ,it took more time in epoll and its principles and structure .Besides,Learned some knowedge of reacter and thread pool.learn some basic and simple knowegde of 5G.
+Continue to learn and wrote code for multiple customers by IO,learn something of select and poll ,it took more time in epoll and its principles and structure .
+
+Besides,Learned some knowedge of reacter and thread pool.
+
+learn some basic and simple knowegde of 5G.
+
+Make up for previously neglected knowledge points，such as CMake ，connect to the virtual machine 
 ### 3）Your implementation of the tasks you have done this week：
 wrote code for multiple customers by IO.
 ### 4)Unsolved problems：
