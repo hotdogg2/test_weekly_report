@@ -38,8 +38,8 @@ Besides,write code to serve multiple users by multithreading(the function is the
 I/O multiplexing,some detailed points of network programming.
 ### 5)Plan for the next week:
 Learn more about network programming，maybe 5G.
-# Week 3
-## 1)Learning hours:
+## Week 3
+### 1)Learning hours:
 about 10 hours
 ### 2)Learing progress:
 Continue to learn and wrote code for multiple customers by IO,learn something of select and poll ,it took more time in epoll and its principles and structure .
